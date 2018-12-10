@@ -5,7 +5,7 @@
 
 
 
-# Beginning-DevOps-with Docker [eLearning]
+# Beginning DevOps with Docker [eLearning]
 It can be tough to roll out a pre-configured environment if you don’t know what you’re doing. We begin by guiding you through Docker from start to finish (from installation to the Docker Registry, all the way through to working with Docker Swarms). We will show you how to streamline your service options with Docker so that you can scale in an agile, responsive manner. We will also equip you with the skills you need to migrate your workflow to Docker with complete confidence. 
 
 ## What you will learn
